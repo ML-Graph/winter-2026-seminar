@@ -8,5 +8,5 @@ links:
 ---
 **Course Materials:**
 - Security Agentic AI
-- Presentation 9
-- Presentation 10
+- Presentation 9: Integrity Risk
+- Presentation 10: Profiling Risk
