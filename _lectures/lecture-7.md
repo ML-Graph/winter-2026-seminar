@@ -7,6 +7,6 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- Security Agentic AI
+- Personalized Agentic AI
 - Personalization and Socialization 11
 - Personalization and Socialization 12
