@@ -7,6 +7,6 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- Personalization and Socialization
-- Presentation 13
-- Presentation 14
+- Socialized Agentic AI
+- Socialization 11
+- Socialization 12
