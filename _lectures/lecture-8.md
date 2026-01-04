@@ -7,6 +7,6 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- Socialized Agentic AI
-- Socialization 11
-- Socialization 12
+- Agentic AI
+- Scientific Literature Review
+- Natural Disaster Management
