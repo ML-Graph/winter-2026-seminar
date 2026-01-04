@@ -7,6 +7,6 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- Application Agentic AI
+- Agentic AI
 - Back up
 - Back up
