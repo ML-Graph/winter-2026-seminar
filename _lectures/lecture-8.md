@@ -8,5 +8,5 @@ links:
 ---
 **Course Materials:**
 - Agentic AI
-- Scientific Literature Review
-- Natural Disaster Management
+- Presentation 13: Scientific Literature Review
+- Presentation 14: Natural Disaster Management
