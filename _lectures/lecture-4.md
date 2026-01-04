@@ -8,5 +8,5 @@ links:
 ---
 **Course Materials:**
 - Agentic AI
-- Presentation 5
-- Presentation 6
+- Presentation 5: Reasoning and Planning
+- Presentation 6: Chemistry/NeuralBiology
