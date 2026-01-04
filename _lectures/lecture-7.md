@@ -8,5 +8,5 @@ links:
 ---
 **Course Materials:**
 - Personalized Agentic AI
-- Personalization and Socialization 11
-- Personalization and Socialization 12
+- Presentation 11: Personalization and Socialization
+- Presentation 12: Personalization and Socialization
