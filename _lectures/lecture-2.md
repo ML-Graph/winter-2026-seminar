@@ -8,3 +8,6 @@ links:
 ---
 **Course Materials:**
 - Agentic AI
+- Presentation 1
+- Presentation 2
+
