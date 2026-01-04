@@ -9,6 +9,6 @@ links:
 **Course Materials:**
 - Security Agentic AI
 - Presentation 7: Privacy Risk
-- Presentation 8: Reasoning DDoS Risk
+- Presentation 8: Reasoning Risk 
 
 
