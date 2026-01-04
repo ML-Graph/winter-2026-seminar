@@ -7,6 +7,6 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- Security
-- Presentation 9
-- Presentation 10
+- Security Agentic AI
+- Presentation 7
+- Presentation 8
