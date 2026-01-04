@@ -1,12 +1,12 @@
 ---
 type: lecture
-date: 2025-05-23
-title: Paper Presentation and Project Discussion <br> 
+date: 2026-03-02
+title: Paper Presentation and Discussion
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- Paper Presentation - Riya
-- Paper Presentation - Ranjitha
-- Project Discussion
+- Personalization and Socialization
+- Presentation 13
+- Presentation 14
