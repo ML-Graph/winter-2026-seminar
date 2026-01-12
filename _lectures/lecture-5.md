@@ -8,7 +8,6 @@ links:
 ---
 **Course Materials:**
 - Security Agentic AI
-- Presentation 7: Privacy Risk
-- Presentation 8: Reasoning Efficiency Risk 
-
+- Presentation 5: Reasoning and Planning
+- Presentation 6: Chemistry/NeuralBiology Application
 
