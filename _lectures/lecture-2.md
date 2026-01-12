@@ -8,5 +8,4 @@ links:
 ---
 **Course Materials:**
 - Agentic AI
-- Presentation 1: Reasoning and Planning
-- Presentation 2: Math/Physics Application
+- Security AI
