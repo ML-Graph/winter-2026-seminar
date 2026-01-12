@@ -7,6 +7,6 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- Personalized Agentic AI
-- Presentation 11: Personalization and Socialization
-- Presentation 12: Personalization and Socialization
+- Personalized Agentic AI 
+- Presentation 9: Integrity Risk
+- Presentation 10: Profiling Risk
