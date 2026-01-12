@@ -8,5 +8,5 @@ links:
 ---
 **Course Materials:**
 - Agentic AI
-- Presentation 13: Scientific Literature Review
-- Presentation 14: Natural Disaster Management
+- Presentation 11: Personalization and Socialization
+- Presentation 12: Personalization and Socialization
